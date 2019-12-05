@@ -1,0 +1,67 @@
+
+body{
+    margin: 0;
+    padding: 0; 
+ }
+
+ form{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(27, 126, 93);
+    background: rgb(157, 241, 149);
+    width: 325px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 5px 10px 10px 10px;
+    border-radius: 20px;
+}
+
+.usuario input{
+
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.senha input{
+    padding: 5px;
+    margin-left: 25px;
+    width: 200px;
+}
+
+.botao input{
+    background: #069;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+.botao input:hover{
+    background: rgb(100, 140, 160);
+}
+
+.btgravar input{
+    background: #069;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btgravar input:hover{
+    background: rgb(100, 140, 160);
+}
+
+.tarefa input{
+    padding: 5px;
+    margin-left: 25px;
+    width: 150px;
+}
+
+
